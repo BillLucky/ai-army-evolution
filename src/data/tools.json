@@ -6,7 +6,11 @@
     "description": "OpenAI 出品的对话助手，支持联网、图像理解、语音、代码执行与自定义 GPTs，是大多数人接触 AI 的第一站。",
     "url": "https://chat.openai.com",
     "category": "chat",
-    "tags": ["大模型", "联网", "多模态"],
+    "tags": [
+      "大模型",
+      "联网",
+      "多模态"
+    ],
     "pricing": "freemium",
     "region": "global",
     "featured": true
@@ -18,7 +22,11 @@
     "description": "Anthropic 出品，超长上下文、写作与编程能力出众，Artifacts 可直接预览生成的网页与组件，深受开发者与创作者喜爱。",
     "url": "https://claude.ai",
     "category": "chat",
-    "tags": ["大模型", "长文本", "编程"],
+    "tags": [
+      "大模型",
+      "长文本",
+      "编程"
+    ],
     "pricing": "freemium",
     "region": "global",
     "featured": true
@@ -30,7 +38,11 @@
     "description": "Google 的多模态大模型，深度集成搜索、Gmail、Docs、Android，超长上下文处理与原生多模态是亮点。",
     "url": "https://gemini.google.com",
     "category": "chat",
-    "tags": ["大模型", "多模态", "谷歌"],
+    "tags": [
+      "大模型",
+      "多模态",
+      "谷歌"
+    ],
     "pricing": "freemium",
     "region": "global",
     "featured": true
@@ -42,7 +54,11 @@
     "description": "深度求索出品，推理能力强、API 价格极低、模型开源，是国产开发者和爱好者的热门选择。",
     "url": "https://chat.deepseek.com",
     "category": "chat",
-    "tags": ["国产", "开源", "推理"],
+    "tags": [
+      "国产",
+      "开源",
+      "推理"
+    ],
     "pricing": "freemium",
     "region": "cn",
     "featured": true
@@ -54,7 +70,11 @@
     "description": "月之暗面出品，擅长超长文档阅读、联网搜索与资料整理，处理论文、合同、研报很顺手。",
     "url": "https://kimi.moonshot.cn",
     "category": "chat",
-    "tags": ["国产", "长文本", "联网"],
+    "tags": [
+      "国产",
+      "长文本",
+      "联网"
+    ],
     "pricing": "freemium",
     "region": "cn"
   },
@@ -65,7 +85,11 @@
     "description": "字节跳动的 AI 助手，对话、写作、图像、语音一应俱全，移动端体验好，日常使用门槛低。",
     "url": "https://www.doubao.com",
     "category": "chat",
-    "tags": ["国产", "多模态", "移动端"],
+    "tags": [
+      "国产",
+      "多模态",
+      "移动端"
+    ],
     "pricing": "free",
     "region": "cn"
   },
@@ -76,7 +100,11 @@
     "description": "xAI 出品，集成 X 平台实时信息流，幽默风格、支持图像与语音，推理模型 Grok Thinking 能力出众。",
     "url": "https://grok.com",
     "category": "chat",
-    "tags": ["大模型", "实时", "推理"],
+    "tags": [
+      "大模型",
+      "实时",
+      "推理"
+    ],
     "pricing": "freemium",
     "region": "global",
     "featured": true
@@ -88,7 +116,11 @@
     "description": "阿里云出品，支持超长上下文、多模态输入、代码与数学推理，Qwen 系列已成为开源社区明星模型。",
     "url": "https://qianwen.aliyun.com",
     "category": "chat",
-    "tags": ["国产", "开源", "多模态"],
+    "tags": [
+      "国产",
+      "开源",
+      "多模态"
+    ],
     "pricing": "freemium",
     "region": "cn"
   },
@@ -99,7 +131,11 @@
     "description": "智谱 AI 出品，基于 GLM 系列，中文理解与推理优秀，支持长文档、联网搜索与多模态对话。",
     "url": "https://chatglm.cn",
     "category": "chat",
-    "tags": ["国产", "中文", "推理"],
+    "tags": [
+      "国产",
+      "中文",
+      "推理"
+    ],
     "pricing": "freemium",
     "region": "cn"
   },
@@ -110,7 +146,11 @@
     "description": "百度出品，深度融合搜索与知识图谱，擅长中文生成、信息整合，是国内企业应用落地的主流选项。",
     "url": "https://ernie.baidu.com",
     "category": "chat",
-    "tags": ["国产", "百度", "知识增强"],
+    "tags": [
+      "国产",
+      "百度",
+      "知识增强"
+    ],
     "pricing": "freemium",
     "region": "cn"
   },
@@ -121,7 +161,11 @@
     "description": "Quora 出品，集合 GPT、Claude、Gemini、Llama 等主流模型，一个账号多模型切换，方便比对与探索。",
     "url": "https://poe.com",
     "category": "chat",
-    "tags": ["多模型", "聚合", "探索"],
+    "tags": [
+      "多模型",
+      "聚合",
+      "探索"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -132,7 +176,11 @@
     "description": "用户可创建或与数百万个 AI 角色对话，从名人到虚构人物一应俱全，娱乐与陪伴场景体验独特。",
     "url": "https://character.ai",
     "category": "chat",
-    "tags": ["角色扮演", "娱乐", "陪伴"],
+    "tags": [
+      "角色扮演",
+      "娱乐",
+      "陪伴"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -143,7 +191,11 @@
     "description": "Anthropic 官方 CLI，直接在命令行里读写整个代码库、运行测试、提交代码，把 Claude 变成能动手的工程师。",
     "url": "https://claude.com/claude-code",
     "category": "coding",
-    "tags": ["命令行", "Agent", "全栈"],
+    "tags": [
+      "命令行",
+      "Agent",
+      "全栈"
+    ],
     "pricing": "paid",
     "region": "global",
     "featured": true
@@ -155,7 +207,11 @@
     "description": "基于 VS Code 的 AI 编辑器，Tab 补全、对话改代码、整库理解，是目前最流行的 AI 编程工具之一。",
     "url": "https://cursor.com",
     "category": "coding",
-    "tags": ["编辑器", "补全", "重构"],
+    "tags": [
+      "编辑器",
+      "补全",
+      "重构"
+    ],
     "pricing": "freemium",
     "region": "global",
     "featured": true
@@ -167,7 +223,11 @@
     "description": "深度集成 VS Code、JetBrains 与 GitHub，代码补全、聊天、PR 审查样样齐全，企业落地最成熟。",
     "url": "https://github.com/features/copilot",
     "category": "coding",
-    "tags": ["补全", "GitHub", "企业"],
+    "tags": [
+      "补全",
+      "GitHub",
+      "企业"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -178,7 +238,11 @@
     "description": "主打 Agent 工作流的 AI 编辑器，能自主规划多步骤改动并执行，适合让 AI 接手较大的任务。",
     "url": "https://windsurf.com",
     "category": "coding",
-    "tags": ["IDE", "Agent", "自动化"],
+    "tags": [
+      "IDE",
+      "Agent",
+      "自动化"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -189,7 +253,11 @@
     "description": "Vercel 出品，用自然语言生成 React + Tailwind 界面，可直接复制代码或一键部署，做原型极快。",
     "url": "https://v0.dev",
     "category": "coding",
-    "tags": ["前端", "生成式 UI", "原型"],
+    "tags": [
+      "前端",
+      "生成式 UI",
+      "原型"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -200,7 +268,11 @@
     "description": "StackBlitz 出品，在浏览器里用对话生成、运行、部署完整全栈应用，无需本地环境。",
     "url": "https://bolt.new",
     "category": "coding",
-    "tags": ["全栈", "在线", "部署"],
+    "tags": [
+      "全栈",
+      "在线",
+      "部署"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -211,7 +283,11 @@
     "description": "描述需求即可生成带 React 前端、Supabase 后端的完整可部署应用，Vibe Coding 的代表性工具。",
     "url": "https://lovable.dev",
     "category": "coding",
-    "tags": ["全栈", "无代码", "部署"],
+    "tags": [
+      "全栈",
+      "无代码",
+      "部署"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -222,7 +298,11 @@
     "description": "浏览器即开即用的云端开发环境，集成 AI 代码生成与调试，支持多语言，新手到专业都适用。",
     "url": "https://replit.com",
     "category": "coding",
-    "tags": ["在线 IDE", "云端", "协作"],
+    "tags": [
+      "在线 IDE",
+      "云端",
+      "协作"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -233,7 +313,11 @@
     "description": "出图质量与艺术感长期领先，社区氛围浓厚，是专业创作者做概念图、插画、海报的首选。",
     "url": "https://www.midjourney.com",
     "category": "image",
-    "tags": ["文生图", "艺术", "高质量"],
+    "tags": [
+      "文生图",
+      "艺术",
+      "高质量"
+    ],
     "pricing": "paid",
     "region": "global",
     "featured": true
@@ -245,7 +329,11 @@
     "description": "Black Forest Labs 出品，画质与文字渲染出色，可本地部署也有在线服务，是 SD 之后的开源新标杆。",
     "url": "https://blackforestlabs.ai",
     "category": "image",
-    "tags": ["开源", "文生图", "可本地"],
+    "tags": [
+      "开源",
+      "文生图",
+      "可本地"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -256,7 +344,11 @@
     "description": "中文理解到位、出图风格丰富，图像与视频一体，是国产 AI 创作的热门平台。",
     "url": "https://jimeng.jianying.com",
     "category": "image",
-    "tags": ["国产", "文生图", "中文"],
+    "tags": [
+      "国产",
+      "文生图",
+      "中文"
+    ],
     "pricing": "freemium",
     "region": "cn"
   },
@@ -267,7 +359,11 @@
     "description": "Stability AI 出品的开源文生图基础模型，可完全本地运行、支持 LoRA 微调，创作自由度极高，是开源社区基石。",
     "url": "https://stability.ai",
     "category": "image",
-    "tags": ["开源", "本地部署", "文生图"],
+    "tags": [
+      "开源",
+      "本地部署",
+      "文生图"
+    ],
     "pricing": "free",
     "region": "global"
   },
@@ -278,7 +374,11 @@
     "description": "提供丰富的预训练风格模型与精细参数调节，适合游戏美术、角色设计与商业创意图的批量生产。",
     "url": "https://leonardo.ai",
     "category": "image",
-    "tags": ["文生图", "游戏", "风格"],
+    "tags": [
+      "文生图",
+      "游戏",
+      "风格"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -289,7 +389,11 @@
     "description": "在图像中精确渲染文字是其最大亮点，做海报、标语、封面设计效果出众，风格多样。",
     "url": "https://ideogram.ai",
     "category": "image",
-    "tags": ["文字渲染", "海报", "设计"],
+    "tags": [
+      "文字渲染",
+      "海报",
+      "设计"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -300,7 +404,11 @@
     "description": "支持实时画布生成、图像增强与视频创作，实时预览效果让创意迭代更直觉，适合设计师与艺术家。",
     "url": "https://www.krea.ai",
     "category": "image",
-    "tags": ["实时生成", "增强", "创意"],
+    "tags": [
+      "实时生成",
+      "增强",
+      "创意"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -311,7 +419,10 @@
     "description": "高一致性、长时长的文生视频代表作，物理真实感与镜头语言出众，引领视频生成方向。",
     "url": "https://sora.com",
     "category": "video",
-    "tags": ["文生视频", "高质量"],
+    "tags": [
+      "文生视频",
+      "高质量"
+    ],
     "pricing": "paid",
     "region": "global",
     "featured": true
@@ -323,7 +434,11 @@
     "description": "快手出品，动作连贯、画质细腻，文生视频与图生视频效果在国产里领先，创作者口碑好。",
     "url": "https://klingai.com",
     "category": "video",
-    "tags": ["国产", "图生视频", "高质量"],
+    "tags": [
+      "国产",
+      "图生视频",
+      "高质量"
+    ],
     "pricing": "freemium",
     "region": "cn",
     "featured": true
@@ -335,7 +450,11 @@
     "description": "老牌 AI 视频公司，生成、编辑、特效一站式，专业影视与广告团队常用。",
     "url": "https://runwayml.com",
     "category": "video",
-    "tags": ["视频编辑", "特效", "专业"],
+    "tags": [
+      "视频编辑",
+      "特效",
+      "专业"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -346,7 +465,11 @@
     "description": "MiniMax 出品，画面稳定、上手简单，免费额度友好，适合快速产出短视频素材。",
     "url": "https://hailuoai.video",
     "category": "video",
-    "tags": ["国产", "文生视频", "免费额度"],
+    "tags": [
+      "国产",
+      "文生视频",
+      "免费额度"
+    ],
     "pricing": "freemium",
     "region": "cn"
   },
@@ -357,7 +480,11 @@
     "description": "Pika Labs 出品，文字或图片一键生成动态视频，特效丰富、操作简洁，是视频创作入门利器。",
     "url": "https://pika.art",
     "category": "video",
-    "tags": ["文生视频", "特效", "易用"],
+    "tags": [
+      "文生视频",
+      "特效",
+      "易用"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -368,7 +495,11 @@
     "description": "用 AI 克隆形象与声音制作专业视频，支持多语言口型同步，营销、培训、多语言内容首选。",
     "url": "https://www.heygen.com",
     "category": "video",
-    "tags": ["数字人", "多语言", "营销"],
+    "tags": [
+      "数字人",
+      "多语言",
+      "营销"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -379,7 +510,11 @@
     "description": "把视频转为文字稿，通过编辑文字即可剪辑视频，支持 AI 配音、去除口误，播客与短视频神器。",
     "url": "https://www.descript.com",
     "category": "video",
-    "tags": ["视频剪辑", "播客", "转录"],
+    "tags": [
+      "视频剪辑",
+      "播客",
+      "转录"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -390,7 +525,11 @@
     "description": "配音、音色克隆、多语言朗读效果业界顶尖，做有声内容、配音、播客必备。",
     "url": "https://elevenlabs.io",
     "category": "audio",
-    "tags": ["配音", "音色克隆", "多语言"],
+    "tags": [
+      "配音",
+      "音色克隆",
+      "多语言"
+    ],
     "pricing": "freemium",
     "region": "global",
     "featured": true
@@ -402,7 +541,11 @@
     "description": "输入歌词或描述即可生成带人声的完整歌曲，风格丰富，是 AI 音乐创作的现象级产品。",
     "url": "https://suno.com",
     "category": "audio",
-    "tags": ["AI 作曲", "人声", "音乐"],
+    "tags": [
+      "AI 作曲",
+      "人声",
+      "音乐"
+    ],
     "pricing": "freemium",
     "region": "global",
     "featured": true
@@ -414,7 +557,11 @@
     "description": "生成音乐质量与细节丰富度出众，支持自定义歌词与风格，是 Suno 之外的顶级音乐生成选项。",
     "url": "https://www.udio.com",
     "category": "audio",
-    "tags": ["AI 作曲", "高保真", "音乐"],
+    "tags": [
+      "AI 作曲",
+      "高保真",
+      "音乐"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -425,7 +572,11 @@
     "description": "字节出品，AI 字幕、音效、特效、文生视频一体，是国内短视频创作者最常用的剪辑工具。",
     "url": "https://www.capcut.cn",
     "category": "audio",
-    "tags": ["国产", "视频剪辑", "短视频"],
+    "tags": [
+      "国产",
+      "视频剪辑",
+      "短视频"
+    ],
     "pricing": "freemium",
     "region": "cn"
   },
@@ -436,7 +587,11 @@
     "description": "通用型自主智能体，能规划并执行联网调研、写代码、做表格等多步骤任务，交付完整结果。",
     "url": "https://manus.im",
     "category": "agent",
-    "tags": ["通用 Agent", "自动化", "国产"],
+    "tags": [
+      "通用 Agent",
+      "自动化",
+      "国产"
+    ],
     "pricing": "freemium",
     "region": "cn",
     "featured": true
@@ -448,7 +603,11 @@
     "description": "可视化编排 RAG、Agent、工作流，开源可私有部署，是搭建企业级 AI 应用的热门底座。",
     "url": "https://dify.ai",
     "category": "agent",
-    "tags": ["开源", "RAG", "工作流"],
+    "tags": [
+      "开源",
+      "RAG",
+      "工作流"
+    ],
     "pricing": "freemium",
     "region": "global",
     "featured": true
@@ -460,7 +619,11 @@
     "description": "字节出品，拖拽式搭建带插件、知识库、工作流的智能体，可发布到多个平台，新手友好。",
     "url": "https://www.coze.cn",
     "category": "agent",
-    "tags": ["零代码", "Bot", "国产"],
+    "tags": [
+      "零代码",
+      "Bot",
+      "国产"
+    ],
     "pricing": "freemium",
     "region": "cn"
   },
@@ -471,7 +634,11 @@
     "description": "连接数百种应用与 AI 模型，用可视化节点搭建自动化流程，开发者自动化首选。",
     "url": "https://n8n.io",
     "category": "agent",
-    "tags": ["开源", "自动化", "集成"],
+    "tags": [
+      "开源",
+      "自动化",
+      "集成"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -482,7 +649,11 @@
     "description": "开源的多 Agent 协作框架，可定义角色、任务与流程，让多个 AI 智能体像团队一样分工协作。",
     "url": "https://crewai.com",
     "category": "agent",
-    "tags": ["多 Agent", "开源", "框架"],
+    "tags": [
+      "多 Agent",
+      "开源",
+      "框架"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -493,7 +664,11 @@
     "description": "无需编程即可自动化跨应用工作流，深度集成主流 AI 模型，让重复任务自动完成。",
     "url": "https://zapier.com",
     "category": "agent",
-    "tags": ["自动化", "集成", "无代码"],
+    "tags": [
+      "自动化",
+      "集成",
+      "无代码"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -504,7 +679,11 @@
     "description": "输入主题即可生成排版精良的演示文稿、文档与网页，省去做 PPT 的大量时间。",
     "url": "https://gamma.app",
     "category": "productivity",
-    "tags": ["PPT", "演示", "排版"],
+    "tags": [
+      "PPT",
+      "演示",
+      "排版"
+    ],
     "pricing": "freemium",
     "region": "global",
     "featured": true
@@ -516,7 +695,11 @@
     "description": "粘贴文字自动生成流程图、示意图、信息图，让观点更直观，做内容和汇报很好用。",
     "url": "https://www.napkin.ai",
     "category": "productivity",
-    "tags": ["图表", "可视化", "信息图"],
+    "tags": [
+      "图表",
+      "可视化",
+      "信息图"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -527,7 +710,11 @@
     "description": "在 Notion 内写作、总结、问答、检索全库内容，把笔记和知识库变成可对话的工作空间。",
     "url": "https://www.notion.so/product/ai",
     "category": "productivity",
-    "tags": ["笔记", "知识库", "写作"],
+    "tags": [
+      "笔记",
+      "知识库",
+      "写作"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -538,7 +725,11 @@
     "description": "上传文档后可深度问答、总结与生成 Podcast 音频，将资料变成可对话的知识库，科研与学习必备。",
     "url": "https://notebooklm.google.com",
     "category": "productivity",
-    "tags": ["知识库", "文档", "播客"],
+    "tags": [
+      "知识库",
+      "文档",
+      "播客"
+    ],
     "pricing": "free",
     "region": "global"
   },
@@ -549,7 +740,11 @@
     "description": "集深度搜索、幻灯片生成、代码执行与数据分析于一体，Super Agent 自动完成复杂任务，无广告干扰。",
     "url": "https://www.genspark.ai",
     "category": "productivity",
-    "tags": ["AI 搜索", "全能", "无广告"],
+    "tags": [
+      "AI 搜索",
+      "全能",
+      "无广告"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -560,7 +755,11 @@
     "description": "主打品牌营销内容生产，模板丰富、支持品牌语调统一，适合市场团队批量产出文案。",
     "url": "https://www.jasper.ai",
     "category": "writing",
-    "tags": ["营销", "文案", "团队"],
+    "tags": [
+      "营销",
+      "文案",
+      "团队"
+    ],
     "pricing": "paid",
     "region": "global"
   },
@@ -571,7 +770,11 @@
     "description": "中文纠错、润色、改写、查重一体，写公众号、报告、论文的得力助手。",
     "url": "https://xiezuocat.com",
     "category": "writing",
-    "tags": ["国产", "中文", "校对"],
+    "tags": [
+      "国产",
+      "中文",
+      "校对"
+    ],
     "pricing": "freemium",
     "region": "cn"
   },
@@ -582,7 +785,11 @@
     "description": "专注销售话术、广告语、邮件与社媒文案，工作流自动化与团队协作功能完善，营销效率显著提升。",
     "url": "https://www.copy.ai",
     "category": "writing",
-    "tags": ["文案", "营销", "自动化"],
+    "tags": [
+      "文案",
+      "营销",
+      "自动化"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -593,7 +800,11 @@
     "description": "用 AI 生成故事线清晰的演示文稿，内嵌数据可视化与动态卡片，让汇报更具叙事感。",
     "url": "https://tome.app",
     "category": "writing",
-    "tags": ["演示", "叙事", "写作"],
+    "tags": [
+      "演示",
+      "叙事",
+      "写作"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -604,7 +815,11 @@
     "description": "每个答案都附来源链接，适合做研究和事实核查，Deep Research 能自动产出长篇调研报告。",
     "url": "https://www.perplexity.ai",
     "category": "search",
-    "tags": ["AI 搜索", "引用", "研究"],
+    "tags": [
+      "AI 搜索",
+      "引用",
+      "研究"
+    ],
     "pricing": "freemium",
     "region": "global",
     "featured": true
@@ -616,7 +831,11 @@
     "description": "中文 AI 搜索体验干净、结果带来源与大纲，学术与日常检索都好用。",
     "url": "https://metaso.cn",
     "category": "search",
-    "tags": ["国产", "无广告", "中文"],
+    "tags": [
+      "国产",
+      "无广告",
+      "中文"
+    ],
     "pricing": "free",
     "region": "cn"
   },
@@ -627,7 +846,11 @@
     "description": "集成 AI 问答与网页搜索，支持代码、写作等多模式，注重隐私保护，可个性化定制搜索体验。",
     "url": "https://you.com",
     "category": "search",
-    "tags": ["AI 搜索", "隐私", "定制"],
+    "tags": [
+      "AI 搜索",
+      "隐私",
+      "定制"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -638,7 +861,11 @@
     "description": "支持多语言搜索与实时翻译，结果以思维导图与摘要呈现，适合跨语言调研与信息整合。",
     "url": "https://felo.ai",
     "category": "search",
-    "tags": ["多语言", "翻译", "AI 搜索"],
+    "tags": [
+      "多语言",
+      "翻译",
+      "AI 搜索"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -649,7 +876,11 @@
     "description": "在 Figma 中用 AI 生成草稿、改写文案、整理图层，把设计流程接入生成式能力。",
     "url": "https://www.figma.com/ai",
     "category": "design",
-    "tags": ["UI", "设计", "协作"],
+    "tags": [
+      "UI",
+      "设计",
+      "协作"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -660,7 +891,11 @@
     "description": "海量模板加 AI 文生图、抠图、魔法编辑，零基础也能做出专业海报、社媒图与演示。",
     "url": "https://www.canva.com",
     "category": "design",
-    "tags": ["模板", "海报", "易上手"],
+    "tags": [
+      "模板",
+      "海报",
+      "易上手"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -671,7 +906,11 @@
     "description": "擅长矢量、图标、品牌一致性图像生成，可精细控制风格，设计师生产力工具。",
     "url": "https://www.recraft.ai",
     "category": "design",
-    "tags": ["矢量", "图标", "品牌"],
+    "tags": [
+      "矢量",
+      "图标",
+      "品牌"
+    ],
     "pricing": "freemium",
     "region": "global"
   },
@@ -682,8 +921,29 @@
     "description": "深度集成 Photoshop、Illustrator 等 Adobe 工具，商业安全的训练数据让生成内容可放心商用。",
     "url": "https://www.adobe.com/products/firefly.html",
     "category": "design",
-    "tags": ["Adobe", "商业可用", "创意"],
+    "tags": [
+      "Adobe",
+      "商业可用",
+      "创意"
+    ],
     "pricing": "freemium",
     "region": "global"
+  },
+  {
+    "id": "coderplan",
+    "name": "CoderPlan",
+    "tagline": "LLM API 中转网关，一行代码接入全模型",
+    "description": "OpenAI 兼容的 LLM API 网关，按量付费，支持 Claude、GPT、Gemini、DeepSeek 等全模型，国内网络优化，一行代码切换 base_url 即可使用。",
+    "url": "https://coderplan.ai",
+    "category": "coding",
+    "tags": [
+      "API",
+      "LLM",
+      "中转",
+      "OpenAI兼容"
+    ],
+    "pricing": "freemium",
+    "region": "china",
+    "featured": false
   }
 ]
