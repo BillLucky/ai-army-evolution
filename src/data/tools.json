@@ -543,6 +543,17 @@
     "region": "global"
   },
   {
+    "id": "remio",
+    "name": "Remio",
+    "tagline": "本地优先的 AI 个人知识库",
+    "description": "桌面端把文件、网页、录音、邮件、聊天记录、图片和笔记解析成本地索引与向量，让用户从个人上下文中快速检索答案，减少反复翻文件、全文塞进提示词带来的 token 和时间成本。",
+    "url": "https://remio.ai",
+    "category": "productivity",
+    "tags": ["知识库", "本地优先", "资料检索"],
+    "pricing": "freemium",
+    "region": "global"
+  },
+  {
     "id": "genspark",
     "name": "Genspark",
     "tagline": "无广告全能 AI 工作台",
