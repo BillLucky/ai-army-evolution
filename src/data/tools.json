@@ -487,6 +487,17 @@
     "region": "global"
   },
   {
+    "id": "open-agent-relay",
+    "name": "Open Agent Relay",
+    "tagline": "把本地 Agent 能力安全共享给团队",
+    "description": "Apache-2.0 开源 CLI，将已有本地 Agent 或自动化能力通过可信局域网提供给团队调用，源码、依赖、提示词与凭据始终保留在发布端。",
+    "url": "https://github.com/ShakespeareLabs/open-agent-relay",
+    "category": "agent",
+    "tags": ["开源", "Agent 基础设施", "本地优先"],
+    "pricing": "free",
+    "region": "global"
+  },
+  {
     "id": "zapier",
     "name": "Zapier",
     "tagline": "无代码连接 7000+ 应用与 AI",
