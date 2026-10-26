@@ -685,5 +685,22 @@
     "tags": ["Adobe", "商业可用", "创意"],
     "pricing": "freemium",
     "region": "global"
+  },
+  {
+    "id": "agent-qa",
+    "name": "agent-qa",
+    "tagline": "具备持久记忆与自我改进能力的应用测试智能体",
+    "description": "用自然语言测试 Web、Android 和 iOS 应用，结合持久记忆、经验证的自我改进及 CLI/MCP 接口。本地软件免费，使用模型服务时需另行配置访问权限并承担相应费用。",
+    "url": "https://vostride.com",
+    "category": "coding",
+    "tags": [
+      "应用测试",
+      "持久记忆",
+      "自我改进",
+      "MCP"
+    ],
+    "pricing": "free",
+    "region": "global",
+    "featured": false
   }
 ]
